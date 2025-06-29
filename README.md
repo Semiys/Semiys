@@ -65,7 +65,7 @@
 ---
 
 ### 📫 Как со мной связаться:
-<a href="[ССЫЛКА_НА_ТЕЛЕГРАМ](https://t.me/KotSamDev)">
+<a href="[https://t.me/KotSamDev](https://t.me/KotSamDev)">
   <img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" />
 </a>
  
