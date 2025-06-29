@@ -23,11 +23,6 @@
         <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
       </a>
     </td>
-     <td align="center" width="96">
-      <a href="#-мой-стек-технологий">
-        <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP" />
-      </a>
-    </td>
     <td align="center" width="96">
       <a href="#-мой-стек-технологий">
         <img src="https://img.shields.io/badge/Android%20Studio-3DDC84.svg?style=for-the-badge&logo=android-studio&logoColor=white" alt="Android Studio" />
@@ -42,7 +37,7 @@
 </table>
 
 - **Основной фокус:** Kotlin, Android SDK, Jetpack (Navigation, LiveData), MVVM, XML.
-- **Также знаком с:** Java, PHP, работа со сторонними SDK (Yandex Maps).
+- **Также знаком с:** Java, работа со сторонними SDK (Yandex Maps).
 
 ---
 
@@ -65,7 +60,6 @@
 ---
 
 ### 📫 Как со мной связаться:
-<a href="[https://t.me/KotSamDev](https://t.me/KotSamDev)">
+<a href="https://t.me/KotSamDev">
   <img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" />
 </a>
- 
